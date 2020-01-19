@@ -48,7 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Django server.First_Site_Test">
     <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -197,7 +197,7 @@
       <workItem from="1579318445165" duration="4772000" />
       <workItem from="1579380928985" duration="253000" />
       <workItem from="1579381412877" duration="318000" />
-      <workItem from="1579381760041" duration="15560000" />
+      <workItem from="1579381760041" duration="16108000" />
     </task>
     <servers />
   </component>
@@ -268,10 +268,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="618" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1579381200833" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1579475611676">
+    <state x="142" y="0" key="SettingsEditor" timestamp="1579476161171">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579475611676" />
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579476161171" />
     <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1579381768990">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
